@@ -1,0 +1,13 @@
+{
+	"n_targets": 26788,
+	"n_bootstraps": 0,
+	"n_processed": 8181931,
+	"n_pseudoaligned": 5044170,
+	"n_unique": 4534422,
+	"p_pseudoaligned": 61.7,
+	"p_unique": 55.4,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Fri Apr  5 16:06:41 2019",
+	"call": "kallisto quant -i ../Oreochromis_niloticus_index -o Heart_SRR391686 -t 32 trim_SRR391686_1.fastq trim_SRR391686_2.fastq"
+}

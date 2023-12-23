@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 30516706,
+	"n_pseudoaligned": 20981752,
+	"n_unique": 15727603,
+	"p_pseudoaligned": 68.8,
+	"p_unique": 51.5,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:10:54 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o NIovary L_Ol_12_ATCACG_L003_R1.fastq.gz L_Ol_12_ATCACG_L003_R2.fastq.gz"
+}

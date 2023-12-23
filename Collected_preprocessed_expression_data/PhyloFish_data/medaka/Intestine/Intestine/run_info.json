@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 18554739,
+	"n_pseudoaligned": 12105151,
+	"n_unique": 9879640,
+	"p_pseudoaligned": 65.2,
+	"p_unique": 53.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:10:20 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Intestine L_Ol_9_GGCTAC_L002_R1-trim.fastq.gz L_Ol_9_GGCTAC_L002_R2-trim.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 38330840,
+	"n_pseudoaligned": 27045567,
+	"n_unique": 15271514,
+	"p_pseudoaligned": 70.6,
+	"p_unique": 39.8,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Tue Apr  2 16:26:22 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Heart -t 25 trim_SRR1533654_1.fastq trim_SRR1533654_2.fastq"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 22954753,
+	"n_pseudoaligned": 10885783,
+	"n_unique": 9215710,
+	"p_pseudoaligned": 47.4,
+	"p_unique": 40.1,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:07:57 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Brain L_Ol_2_TGACCA_L001_R1-trim.fastq.gz L_Ol_2_TGACCA_L001_R2-trim.fastq.gz"
+}

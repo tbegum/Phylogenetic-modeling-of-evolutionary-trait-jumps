@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 21321508,
+	"n_pseudoaligned": 11495748,
+	"n_unique": 9763491,
+	"p_pseudoaligned": 53.9,
+	"p_unique": 45.8,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:11:04 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o NItestis L_Ol_13_CGATGT_L003_R1-trim.fastq.gz L_Ol_13_CGATGT_L003_R2-trim.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 26788,
+	"n_bootstraps": 0,
+	"n_processed": 9035846,
+	"n_pseudoaligned": 6169450,
+	"n_unique": 5638144,
+	"p_pseudoaligned": 68.3,
+	"p_unique": 62.4,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Fri Apr  5 16:46:44 2019",
+	"call": "kallisto quant -i /backup/uba1/mustafa/tin/telapia/tilapia/Oreochromis_niloticus_index -o Liver_SRR391698 -t 32 trim_SRR391698_1.fastq trim_SRR391698_2.fastq"
+}

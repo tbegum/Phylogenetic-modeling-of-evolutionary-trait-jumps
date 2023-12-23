@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 45224614,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 21:32:09 2018",
+	"call": "kallisto quant -i cavefish_index -o Intestine T_Am_9_GCCAAT_L006_R1.fastq.gz T_Am_9_GCCAAT_L006_R2.fastq.gz"
+}

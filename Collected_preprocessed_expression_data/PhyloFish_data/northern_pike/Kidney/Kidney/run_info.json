@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 25898095,
+	"n_pseudoaligned": 18099749,
+	"n_unique": 10677400,
+	"p_pseudoaligned": 69.9,
+	"p_unique": 41.2,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 10:50:25 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Head_kidney -t 32 trim_SRR1533657_1.fastq trim_SRR1533657_2.fastq"
+}

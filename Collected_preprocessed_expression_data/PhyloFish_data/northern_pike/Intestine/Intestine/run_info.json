@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 19406801,
+	"n_pseudoaligned": 13827998,
+	"n_unique": 7961347,
+	"p_pseudoaligned": 71.3,
+	"p_unique": 41.0,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 12:53:25 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Intestine -t 32 trim_SRR1533659_1.fastq trim_SRR1533659_2.fastq"
+}

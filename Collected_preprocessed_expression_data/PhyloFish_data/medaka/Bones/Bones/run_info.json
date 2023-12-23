@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 20228501,
+	"n_pseudoaligned": 12676370,
+	"n_unique": 10253705,
+	"p_pseudoaligned": 62.7,
+	"p_unique": 50.7,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:10:06 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Bones L_Ol_8_TAGCTT_L002_R1-trim.fastq.gz L_Ol_8_TAGCTT_L002_R2-trim.fastq.gz"
+}

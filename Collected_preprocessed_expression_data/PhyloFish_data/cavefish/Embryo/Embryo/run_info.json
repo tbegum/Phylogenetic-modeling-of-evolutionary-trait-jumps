@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 43374529,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 14:20:34 2018",
+	"call": "kallisto quant -i cavefish_index -o Embryo T_Am_11_CTTGTA_L006_R1.fastq.gz T_Am_11_CTTGTA_L006_R2.fastq.gz"
+}

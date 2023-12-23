@@ -1,0 +1,1 @@
+java -jar /trinityrnaseq/trinity-plugins/Trimmomatic-0.36/trimmomatic-0.36.jar PE -threads 32 SRR2045424_1.fastq SRR2045424_2.fastq paired_SRR2045424_1.fastq un_SRR2045424_1.fastq paired_SRR2045424_2.fastq un_SRR2045424_2.fastq ILLUMINACLIP:/backup/uba1/mustafa/tin/atlantic/adapter.fa:2:30:10  SLIDINGWINDOW:4:20  HEADCROP:12 MINLEN:25
