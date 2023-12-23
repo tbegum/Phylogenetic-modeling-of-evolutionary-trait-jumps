@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 29676201,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 16:23:35 2018",
+	"call": "kallisto quant -i cavefish_index -o NItestis T_Am_13_ACAGTG_L003_R1.fastq.gz T_Am_13_ACAGTG_L003_R2.fastq.gz"
+}

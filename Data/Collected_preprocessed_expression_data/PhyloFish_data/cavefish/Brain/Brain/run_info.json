@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 34767186,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 16:54:09 2018",
+	"call": "kallisto quant -i cavefish_index -o Brain T_Am_2_ATCACG_L005_R1.fastq.gz T_Am_2_ATCACG_L005_R2.fastq.gz"
+}

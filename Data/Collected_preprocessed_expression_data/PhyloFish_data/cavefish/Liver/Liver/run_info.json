@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 69498501,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 19:02:09 2018",
+	"call": "kallisto quant -i cavefish_index -o Liver T_Am_6_TAGCTT_L008_R1.fastq.gz T_Am_6_TAGCTT_L008_R2.fastq.gz"
+}

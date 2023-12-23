@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 37363581,
+	"n_pseudoaligned": 29123281,
+	"n_unique": 18056042,
+	"p_pseudoaligned": 77.9,
+	"p_unique": 48.3,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 12:49:30 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Liver -t 32 trimSRR1533656_1.fastq trimSRR1533656_2.fastq"
+}

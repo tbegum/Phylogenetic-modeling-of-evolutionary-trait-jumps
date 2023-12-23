@@ -1,0 +1,13 @@
+{
+	"n_targets": 26788,
+	"n_bootstraps": 0,
+	"n_processed": 8596918,
+	"n_pseudoaligned": 4665444,
+	"n_unique": 4129729,
+	"p_pseudoaligned": 54.3,
+	"p_unique": 48.0,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Fri Apr  5 15:34:20 2019",
+	"call": "kallisto quant -i /backup/uba1/mustafa/tin/telapia/tilapia/Oreochromis_niloticus_index -o Brain_SRR391699 -t 32 trim_SRR391699_1.fastq trim_SRR391699_2.fastq"
+}

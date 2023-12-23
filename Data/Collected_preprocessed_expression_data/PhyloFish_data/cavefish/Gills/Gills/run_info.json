@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 26422999,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 17:33:04 2018",
+	"call": "kallisto quant -i cavefish_index -o Gills T_Am_3_ACTTGA_L005_R1.fastq.gz T_Am_3_ACTTGA_L005_R2.fastq.gz"
+}

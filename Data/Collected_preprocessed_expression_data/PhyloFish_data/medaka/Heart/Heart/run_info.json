@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 22461763,
+	"n_pseudoaligned": 13672131,
+	"n_unique": 11727726,
+	"p_pseudoaligned": 60.9,
+	"p_unique": 52.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:08:37 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Heart L_Ol_4_TTAGGC_L001_R1-trim.fastq.gz L_Ol_4_TTAGGC_L001_R2-trim.fastq.gz"
+}

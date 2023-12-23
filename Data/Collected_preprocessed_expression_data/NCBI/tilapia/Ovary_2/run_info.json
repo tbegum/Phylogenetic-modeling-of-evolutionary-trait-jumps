@@ -1,0 +1,13 @@
+{
+	"n_targets": 26788,
+	"n_bootstraps": 0,
+	"n_processed": 11354354,
+	"n_pseudoaligned": 8127170,
+	"n_unique": 7172196,
+	"p_pseudoaligned": 71.6,
+	"p_unique": 63.2,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Fri Apr  5 16:58:45 2019",
+	"call": "kallisto quant -i /backup/uba1/mustafa/tin/telapia/tilapia/Oreochromis_niloticus_index -o Ovary_SRR391691 -t 32 trim_SRR391691_1.fastq trim_SRR391691_2.fastq"
+}

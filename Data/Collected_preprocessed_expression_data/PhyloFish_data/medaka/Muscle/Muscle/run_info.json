@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 24248631,
+	"n_pseudoaligned": 17895079,
+	"n_unique": 13481973,
+	"p_pseudoaligned": 73.8,
+	"p_unique": 55.6,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:08:52 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Muscle L_Ol_5_CAGATC_L002_R1-trim.fastq.gz L_Ol_5_CAGATC_L002_R2-trim.fastq.gz"
+}

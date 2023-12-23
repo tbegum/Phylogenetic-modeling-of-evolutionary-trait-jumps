@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 30702264,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 20:26:12 2018",
+	"call": "kallisto quant -i cavefish_index -o Headkidney T_Am_7_GATCAG_L005_R1.fastq.gz T_Am_7_GATCAG_L005_R2.fastq.gz"
+}

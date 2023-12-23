@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 25661136,
+	"n_pseudoaligned": 19079249,
+	"n_unique": 11709425,
+	"p_pseudoaligned": 74.4,
+	"p_unique": 45.6,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 10:00:24 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Muscle -t 32 trim_SRR1533655_1.fastq trim_SRR1533655_2.fastq"
+}

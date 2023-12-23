@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 20521961,
+	"n_pseudoaligned": 12105350,
+	"n_unique": 10013184,
+	"p_pseudoaligned": 59.0,
+	"p_unique": 48.8,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:08:15 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Gills L_Ol_3_GCCAAT_L001_R1-trim.fastq.gz L_Ol_3_GCCAAT_L001_R2-trim.fastq.gz"
+}

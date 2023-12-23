@@ -1,0 +1,9 @@
+{
+	"n_targets": 23719,
+	"n_bootstraps": 0,
+	"n_processed": 30300623,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Thu May 24 17:59:06 2018",
+	"call": "kallisto quant -i cavefish_index -o Heart T_Am_4_TAGCTT_L005_R1.fastq.gz T_Am_4_TAGCTT_L005_R2.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 44633115,
+	"n_pseudoaligned": 34449856,
+	"n_unique": 19772807,
+	"p_pseudoaligned": 77.2,
+	"p_unique": 44.3,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 14:40:06 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Embryo -t 32 trim_SRR1533660_1.fastq trim_SRR1533660_2.fastq"
+}

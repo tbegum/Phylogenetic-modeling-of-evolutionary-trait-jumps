@@ -1,0 +1,13 @@
+{
+	"n_targets": 43175,
+	"n_bootstraps": 0,
+	"n_processed": 16264642,
+	"n_pseudoaligned": 11774804,
+	"n_unique": 6838568,
+	"p_pseudoaligned": 72.4,
+	"p_unique": 42.0,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Thu Apr  4 11:14:46 2019",
+	"call": "kallisto quant -i ../Esox_lucius_index -o Bones -t 32 trim_SRR1533658_1.fastq trim_SRR1533658_2.fastq"
+}

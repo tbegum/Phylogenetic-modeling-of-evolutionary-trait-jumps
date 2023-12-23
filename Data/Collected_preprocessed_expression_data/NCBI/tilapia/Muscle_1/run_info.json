@@ -1,0 +1,13 @@
+{
+	"n_targets": 26788,
+	"n_bootstraps": 0,
+	"n_processed": 8389936,
+	"n_pseudoaligned": 5980964,
+	"n_unique": 5432783,
+	"p_pseudoaligned": 71.3,
+	"p_unique": 64.8,
+	"kallisto_version": "0.45.0",
+	"index_version": 10,
+	"start_time": "Fri Apr  5 16:48:20 2019",
+	"call": "kallisto quant -i /backup/uba1/mustafa/tin/telapia/tilapia/Oreochromis_niloticus_index -o Muscle_SRR391702 -t 32 trim_SRR391702_1.fastq trim_SRR391702_2.fastq"
+}

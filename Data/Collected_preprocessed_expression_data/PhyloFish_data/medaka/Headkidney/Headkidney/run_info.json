@@ -1,0 +1,13 @@
+{
+	"n_targets": 24675,
+	"n_bootstraps": 0,
+	"n_processed": 22969101,
+	"n_pseudoaligned": 14443906,
+	"n_unique": 11623430,
+	"p_pseudoaligned": 62.9,
+	"p_unique": 50.6,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Fri Jun 29 15:09:53 2018",
+	"call": "kallisto_linux-v0.44.0/kallisto quant -i medaka_index -o Headkidney L_Ol_7_GATCAG_L002_R1-trim.fastq.gz L_Ol_7_GATCAG_L002_R2-trim.fastq.gz"
+}
